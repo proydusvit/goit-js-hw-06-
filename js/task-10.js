@@ -6,14 +6,8 @@
 
 // getCreateButton.addEventListener('click', onCreateBoxes);
 // getDestroyButton.addEventListener('click', onDectroyButton);
-// // getControlAmount.addEventListener('input', onInput);
 
-// // function onInput(e) {
-// //   let numberArray = [];
-// //   const yyy = e.currentTarget.value;
-// //   numberArray.push(yyy);
-// //   console.log(numberArray);
-// // }
+
 // function onCreateBoxes() {
 
 //   let numberArray = [];
